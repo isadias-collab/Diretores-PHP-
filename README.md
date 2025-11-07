@@ -1,9 +1,4 @@
-# 🚀🖥️ Atividade Desafio Criativo de Desenvolvimento Web em PHP + MySQL! 💻✨  
-
-Olá, desenvolvedores e desenvolvedoras! 🎉  
-Chegou a hora de colocar em prática tudo que aprendemos e criar um sistema web super legal com **PHP e MySQL**! 😎  
-
----
+# Atividade Desafio Criativo de Desenvolvimento Web em PHP + MySQL! 💻 
 
 ## 🎯 Objetivo  
 Desenvolver um **sistema web completo** que permita **cadastrar, editar, excluir e listar registros**, mostrando informações relevantes e cálculos relacionados — tudo conectado com um banco de dados **MySQL**.  
@@ -61,5 +56,26 @@ O sistema permite:
 
 ---
 
-## 🧩 Estrutura do Projeto  
+
+---
+
+## 🧠 O que foi aprendido  
+
+✨ Como conectar o PHP a um banco MySQL.  
+✨ Como criar e manipular tabelas via código.  
+✨ Como usar métodos **POST** e **GET**.  
+✨ Como montar uma interface funcional com HTML + CSS.  
+✨ Como aplicar CRUD (Create, Read, Update, Delete) de forma completa.  
+
+---
+
+
+## 👩‍💻 Autora  
+**Isabella Dias**  
+💡 Estudante de Desenvolvimento de Sistemas  
+📚 Projeto desenvolvido como parte da atividade **Desafio Criativo de Desenvolvimento Web – PHP + MySQL**.  
+
+---
+
+
 
