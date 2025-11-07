@@ -74,5 +74,11 @@ O sistema permite:
 
 ---
 
+<div style="width:200px;height:200px;overflow:hidden;display:inline-block;">
+  <img src="images/foto.jpg" alt="Minha foto"
+       style="width:100%;height:100%;object-fit:cover;display:block;">
+</div>
+
+
 
 
