@@ -56,9 +56,6 @@ O sistema permite:
 
 ---
 
-
----
-
 ## 🧠 O que foi aprendido  
 
 ✨ Como conectar o PHP a um banco MySQL.  
